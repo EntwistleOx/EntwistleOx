@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/EntwistleOx/EntwistleOx/master/juan-8bit.gif)
+![Header](https://raw.githubusercontent.com/EntwistleOx/EntwistleOx/master/jd-ascii.png)
 
 # 👾 Hi there, I'm Juan 🖖👽
 
