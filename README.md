@@ -6,20 +6,15 @@
 
 ## 💻 My Prefered tools are:
 
-- Create React App
-- NextJS
-
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-next
-- Netlify & NetlifyCMS
+![Next.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=next.js)
+![Next.js](https://img.shields.io/badge/-Netlify-%23282C34?style=flat-square&logo=netlify)
 ![Amazon Lightsail](https://img.shields.io/badge/-Amazon%20Lightsail-222222?style=flat&logo=amazon&logoColor=FCC624)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-222222?style=flat&logo=linux-mint&logoColor=FCC624)
-
 
 ## 🏆 I'm currenlty in these challenges:
 
