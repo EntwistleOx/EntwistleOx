@@ -6,15 +6,15 @@
 
 ## 💻 My Prefered tools are:
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-011627?style=flat-square&logo=node.js&logoColor=ffffff)
-![Express](https://img.shields.io/badge/-Express-%011627?style=flat-square&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%011627?style=flat-square&logo=mongodb&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%011627?style=flat-square&logo=react&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/-Next.js-%011627?style=flat-square&logo=next.js&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/-Netlify-%011627?style=flat-square&logo=netlify&logoColor=ffffff)
-![Amazon Lightsail](https://img.shields.io/badge/-Amazon%20Lightsail-%011627?style=flat&logo=amazon&logoColor=ffffff)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-%011627?style=flat-square&logo=github-actions&logoColor=ffffff)
-![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-%011627?style=flat&logo=linux-mint&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-011627?style=flat-square&logo=node.js&logoColor=d6deeb)
+![Express](https://img.shields.io/badge/-Express-011627?style=flat-square&logoColor=d6deeb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-011627?style=flat-square&logo=mongodb&logoColor=d6deeb)
+![React](https://img.shields.io/badge/-React-011627?style=flat-square&logo=react&logoColor=d6deeb)
+![Next.js](https://img.shields.io/badge/-Next.js-011627?style=flat-square&logo=next.js&logoColor=d6deeb)
+![Next.js](https://img.shields.io/badge/-Netlify-011627?style=flat-square&logo=netlify&logoColor=d6deeb)
+![Amazon Lightsail](https://img.shields.io/badge/-Amazon%20Lightsail-011627?style=flat&logo=amazon&logoColor=d6deeb)
+![Github Actions](http://img.shields.io/badge/-Github%20Actions-011627?style=flat-square&logo=github-actions&logoColor=d6deeb)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-011627?style=flat&logo=linux-mint&logoColor=d6deeb)
 
 ## 🤘 I'm currenlty in these challenges:
 
