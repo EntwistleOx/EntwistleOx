@@ -8,21 +8,18 @@
 
 - Create React App
 - NextJS
-- Netlify & NetlifyCMS
-- Amazon Lightsail
-- Github & Github actions
-- Linux Mint
+
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-express?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Express](https://img.shields.io/badge/-Express?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+next
+- Netlify & NetlifyCMS
+- Amazon Lightsail
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+- Linux Mint
 
 
 ## 🏆 I'm currenlty in these challenges:
