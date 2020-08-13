@@ -1,4 +1,6 @@
-[Header](https://raw.githubusercontent.com/EntwistleOx/EntwistleOx/master/juan-8bit.gif)
+![Header](https://raw.githubusercontent.com/EntwistleOx/EntwistleOx/master/juan-8bit.gif)
+
+![image](https://raw.githubusercontent.com/EntwistleOx/EntwistleOx/master/juan-8bit.gif)
 # Hi there, I'm Juan 🖖👽
 
 ✨ I'm a Web Developer located in Santiago, Chile, and I like to build things with Javascript from back to front. I'm a curious and self-taught guy passionate about web technologies, always working on improve my skills ✨
