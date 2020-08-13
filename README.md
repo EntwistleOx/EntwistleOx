@@ -7,7 +7,7 @@
 ## 💻 My Prefered tools are:
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express?style=flat-square&logo=Express)
+![Express](https://img.shields.io/badge/-Express?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23282C34?style=flat-square&logo=next.js)
