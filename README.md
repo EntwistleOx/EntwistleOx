@@ -6,7 +6,7 @@
 
 ## 💻 My Prefered tools are:
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" width="50">NodeJS
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" width="32">NodeJS
 - Express
 - MongoDB
 - Create React App
