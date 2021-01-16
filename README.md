@@ -12,7 +12,7 @@
 ![Express](https://img.shields.io/badge/-Express-011627?style=flat-square&logo=express&logoColor=d6deeb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-011627?style=flat-square&logo=mongodb&logoColor=d6deeb)
 
-## 💻 Languages that I use⚙️
+## 💻 Languages that I use
 
 [![Top Langs](https://github-readme-stats-bmodepri.vercel.app/api/top-langs/?hide_title=true&theme=nightowl&username=EntwistleOx&layout=compact&count_private=true)](https://github.com/EntwistleOx)
 
