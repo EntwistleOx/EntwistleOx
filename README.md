@@ -1,6 +1,6 @@
-## 👾 Hi, my name is Juan Díaz
+## 👾 Hi, my name is Juan Díaz Ortega
 
-✨ I'm a Web Developer located in Santiago, Chile, and I like to build things with Javascript from back to front. I'm a curious and self-taught guy passionate about web technologies, always working on improve my skills ✨
+✨ I'm a Fullstack Developer located in Santiago, Chile, and I like to build things with Javascript from back to front. I'm a curious and self-taught guy passionate about web technologies, always working on improve my skills ✨
 
 ## 🤘 I'm currenlty in these challenges
 
